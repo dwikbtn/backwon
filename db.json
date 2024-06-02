@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "page": 1,
+      "tag":"Totebag",
+      "namepage":"totebag-30x40-baby-canvas",
+      "name": "Totebag 30x40 Baby Canvas",
+      "imgproduct": "Doggo tote-bag.png",
+      "desc":"Behold, The Doggo tote bag! A cute, handheld bag made with soft baby cotton and straight-to-material printing to make sure it doesn’t deteriorate while washing. Each side has a new and redesigned artwork, you can choose one of either those two.",
+      "products": [
+        {
+          "id": 101,
+          "type": "Blue",
+          "name": "Totebag 30x40 Baby Canvas",
+          "imgproduct": "Doggo tote-bag.png",
+          "price":"60000"
+        },
+        {
+          "id": 102,
+          "type": "Green",
+          "name": "Totebag 30x40 Baby Canvas",
+          "imgproduct": "Doggo tote-bag.png",
+          "price":"60000"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "tag":"Shirt",
+      "namepage":"batik-doggo",
+      "name": "Batik | Doggo",
+      "imgproduct": "doggo_collar shirt.png",
+      "desc":"Batik is a hand-painted cloth that is exclusive in Indonesia. It is usually worn in formal occasions but life's not always serious right? This is a custom-made patterned shirt filled with silly little doggos with peach-coloured background. This shirt is fully buttoned-up so you can wear it while it’s closed or opened.",
+      "products": [
+        {
+          "id": 201,
+          "type": "S (47CM x 63CM)",
+          "name": "Batik | Doggo",
+          "imgproduct": "doggo_collar shirt.png",
+          "price": "225000"
+        },
+        {
+          "id": 202,
+          "type": "M (49CM x 64CM)",
+          "name": "Batik | Doggo",
+          "imgproduct": "doggo_collar shirt.png",
+          "price": "225000"
+        },
+        {
+          "id": 203,
+          "type": "L (52CM x 67CM)",
+          "name": "Batik | Doggo",
+          "imgproduct": "doggo_collar shirt.png",
+          "price": "225000"
+        },
+        {
+          "id": 204,
+          "type": "XL (55CM x 70CM)",
+          "name": "Batik | Doggo",
+          "imgproduct": "doggo_collar shirt.png",
+          "price": "225000"
+        },
+        {
+          "id": 205,
+          "type": "XXL (58CM x 72CM)",
+          "name": "Batik | Doggo",
+          "imgproduct": "doggo_collar shirt.png",
+          "price": "225000"
+        },
+        {
+          "id": 206,
+          "type": "3XL (61CM x 73CM)",
+          "name": "Batik | Doggo",
+          "imgproduct": "doggo_collar shirt.png",
+          "price": "232000"
+        },
+        {
+        "id": 207,
+        "type": "4XL (63CM x 74CM)",
+        "name": "Batik | Doggo",
+        "imgproduct": "doggo_collar shirt.png",
+        "price": "232000"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "tag":"T-Shirt",
+      "namepage":"struggle-black",
+      "name": "Struggle | Black",
+      "imgproduct": "Struggle Tshirt black.png",
+      "desc":"Wanna look cool but you don’t want to look like you’re seeking attention? The back of the shirt has a design that features WolfyVero as a struggling artist. The shirt is made from premium cotton to ensure comfortability. The artwork is printed via direct-to-garment printer.",
+      "products": [
+        {
+          "id": 301,
+          "type": "S (45CM x 67CM)",
+          "name": "Struggle | Black",
+          "imgproduct": "Struggle Tshirt black.png",
+          "price": "180000"
+        },
+        {
+          "id": 302,
+          "type": "M (50CM x 70CM)",
+          "name": "Struggle | Black",
+          "imgproduct": "Struggle Tshirt black.png",
+          "price": "180000"
+        },
+        {
+          "id": 303,
+          "type": "L (52CM x 72CM)",
+          "name": "Struggle | Black",
+          "imgproduct": "Struggle Tshirt black.png",
+          "price": "180000"
+        },
+        {
+          "id": 304,
+          "type": "XL (54CM x 74CM)",
+          "name": "Struggle | Black",
+          "imgproduct": "Struggle Tshirt black.png",
+          "price": "180000"
+        },
+        {
+          "id": 305,
+          "type": "XXL (57CM x 78CM)",
+          "name": "Struggle | Black",
+          "imgproduct": "Struggle Tshirt black.png",
+          "price": "190000"
+        },
+        {
+          "id": 306,
+          "type": "3XL (62CM x 82CM)",
+          "name": "Struggle | Black",
+          "imgproduct": "Struggle Tshirt black.png",
+          "price": "200000"
+        },
+        {
+          "id": 307,
+          "type": "4XL (67CM x 84CM)",
+          "name": "Struggle | Black",
+          "imgproduct": "Struggle Tshirt black.png",
+          "price": "210000"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "tag":"T-Shirt",
+      "namepage":"struggle-pink",
+      "name": "Struggle | Pink",
+      "imgproduct": "Struggle Tshirt pink.png",
+      "desc":"Wanna look cool but you don’t want to look like you’re seeking attention? The back of the shirt has a design that features WolfyVero as a struggling artist. The shirt is made from premium cotton to ensure comfortability. The artwork is printed via direct-to-garment printer.",
+      "products": [
+        {
+          "id": 401,
+          "type": "S (45CM x 67CM)",
+          "name": "Struggle | Pink",
+          "imgproduct": "Struggle Tshirt pink.png",
+          "price": "180000"
+        },
+        {
+          "id": 402,
+          "type": "M (50CM x 70CM)",
+          "name": "Struggle | Pink",
+          "imgproduct": "Struggle Tshirt pink.png",
+          "price": "180000"
+        },
+        {
+          "id": 403,
+          "type": "L (52CM x 72CM)",
+          "name": "Struggle | Pink",
+          "imgproduct": "Struggle Tshirt pink.png",
+          "price": "180000"
+        },
+        {
+          "id": 404,
+          "type": "XL (54CM x 74CM)",
+          "name": "Struggle | Pink",
+          "imgproduct": "Struggle Tshirt pink.png",
+          "price": "180000"
+        },
+        {
+          "id": 405,
+          "type": "XXL (57CM x 78CM)",
+          "name": "Struggle | Pink",
+          "imgproduct": "Struggle Tshirt pink.png",
+          "price": "190000"
+        },
+        {
+          "id": 406,
+          "type": "3XL (62CM x 82CM)",
+          "name": "Struggle | Pink",
+          "imgproduct": "Struggle Tshirt pink.png",
+          "price": "200000"
+        },
+        {
+          "id": 407,
+          "type": "4XL (67CM x 84CM)",
+          "name": "Struggle | Pink",
+          "imgproduct": "Struggle Tshirt pink.png",
+          "price": "210000"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "tag":"T-Shirt",
+      "namepage":"struggle-light-blue",
+      "name": "Struggle | Light Blue",
+      "imgproduct": "Struggle Tshirt blue.png",
+      "desc":"Wanna look cool but you don’t want to look like you’re seeking attention? The back of the shirt has a design that features WolfyVero as a struggling artist. The shirt is made from premium cotton to ensure comfortability. The artwork is printed via direct-to-garment printer.",
+      "products": [
+        {
+          "id": 501,
+          "type": "S (45CM x 67CM)",
+          "name": "Struggle | Light Blue",
+      "imgproduct": "Struggle Tshirt blue.png",
+          "price": "180000"
+        },
+        {
+          "id": 502,
+          "type": "M (50CM x 70CM)",
+          "name": "Struggle | Light Blue",
+      "imgproduct": "Struggle Tshirt blue.png",
+          "price": "180000"
+        },
+        {
+          "id": 503,
+          "type": "L (52CM x 72CM)",
+          "name": "Struggle | Light Blue",
+      "imgproduct": "Struggle Tshirt blue.png",
+          "price": "180000"
+        },
+        {
+          "id": 504,
+          "type": "XL (54CM x 74CM)",
+          "name": "Struggle | Light Blue",
+      "imgproduct": "Struggle Tshirt blue.png",
+          "price": "180000"
+        },
+        {
+          "id": 505,
+          "type": "XXL (57CM x 78CM)",
+          "name": "Struggle | Light Blue",
+      "imgproduct": "Struggle Tshirt blue.png",
+          "price": "190000"
+        },
+        {
+          "id": 506,
+          "type": "3XL (62CM x 82CM)",
+          "name": "Struggle | Light Blue",
+      "imgproduct": "Struggle Tshirt blue.png",
+          "price": "200000"
+        },
+        {
+          "id": 507,
+          "type": "4XL (67CM x 84CM)",
+          "name": "Struggle | Light Blue",
+      "imgproduct": "Struggle Tshirt blue.png",
+          "price": "210000"
+        }
+      ]
+    }
+  ],
+  "cart": []
+}
